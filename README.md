@@ -19,7 +19,7 @@
 ## 🔨 Featured Projects
 
 - 📊 **[Fintech Analytics Stack](https://github.com/rshilpa93/fintech-analytics-stack)** — Production-grade Snowflake + dbt data warehouse with full KPI modeling layer (ARR, LTV, CAC, Churn). Board-ready.
-- 🔄 **[Warehouse Migration Playbook](URL)** — Step-by-step guide and scripts for migrating from Redshift to Snowflake with dbt, with validation framework.
+- 🔄 **[Warehouse Migration Playbook](https://github.com/rshilpa93/warehouse-migration-playbook)** — Step-by-step guide and scripts for migrating from Redshift to Snowflake with dbt, with validation framework.
 - 📈 **[SaaS Retention & Churn Dashboard](URL)** — End-to-end cohort analysis and retention modeling in dbt + Looker, with worked fintech dataset.
 
 ---
