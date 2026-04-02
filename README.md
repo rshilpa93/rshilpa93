@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Shilpa 👋
 
 📍 **Analytics Engineering** | 🏗️ **Snowflake · dbt · Looker** | 🚀 **Building data infrastructure that doesn't break when it matters most**
@@ -36,4 +36,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shilpa-radhakrishnan-3743717a)
 [![Website](https://img.shields.io/badge/Website-shilparadhakrishnan.ca-1a2744?style=flat-square&logo=safari&logoColor=white)](https://shilparadhakrishnan.ca)
 [![Email](https://img.shields.io/badge/Email-shilparad93@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shilparad93@gmail.com)
-```
