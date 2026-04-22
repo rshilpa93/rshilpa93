@@ -18,7 +18,7 @@
 
 ## 🔨 Projects
 
-- 📊 **[Fintech Analytics Stack](https://github.com/rshilpa93/fintech-analytics-stack)** — Production-grade dbt + DuckDB warehouse with KPI modeling. [Live Dashboard ↗](https://fintech-analytics-dashboard.streamlit.app/)
+- 📊 **[Fintech Analytics Stack](https://github.com/rshilpa93/fintech-analytics-stack)** — Production-grade dbt + DuckDB warehouse with KPI modeling. [Live Dashboard ↗](https://fintech-analytics-stack-dashboard.streamlit.app/)
 - 🔄 **[Warehouse Migration Playbook](https://github.com/rshilpa93/warehouse-migration-playbook)** — Step-by-step guide and scripts for migrating from Redshift to Snowflake with dbt, with validation framework.
 - 📈 **[SaaS Retention & Churn Dashboard](URL)** — End-to-end cohort analysis and retention modeling in dbt + Looker, with worked fintech dataset.
 
